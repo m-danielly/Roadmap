@@ -28,3 +28,8 @@ table sample
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
