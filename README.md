@@ -3,7 +3,7 @@
  #### Data Engineer:
 
 
-1. [data-engineer-comprehensive-list-resources-get-started](https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/)
+1. [Data engineer comprehensive list of resources to get started](https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/)
 
 
 #### Big Data Engineer:
