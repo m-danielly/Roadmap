@@ -46,6 +46,13 @@ https://skills.github.com/
 
 
 
+#### data engineer interview study guide
+
+https://docs.google.com/spreadsheets/d/1GOO4s1NcxCR8a44F0XnsErz5rYDxNbHAHznu4pJMRkw/edit#gid=0
+
+
+
+
 
 
 
