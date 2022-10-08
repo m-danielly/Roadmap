@@ -31,6 +31,7 @@
 4. [Automate the Boring Stuff with Python](http://libgen.rs/search.php?&req=automate+the+boring+stuff+with+python&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 
 5. [Python Automation Cookbook](http://libgen.rs/book/index.php?md5=B7E3983D7684D2ED7C4927058B5EEF2D)
+6. [Data manipulation cheat sheet](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 
 
 
